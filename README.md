@@ -15,35 +15,6 @@ The analysis was performed using **SQL, Excel, Power BI, and Tableau**, followin
 
 ---
 
-## 📂 Project Structure
-bank-loan-analytics/
-├── data/
-│   ├── raw/                  # Original loan dataset
-│   └── processed/            # Cleaned & transformed data
-│
-├── sql/
-│   ├── schema.sql            # Table creation
-│   ├── data_cleaning.sql     # Cleaning & validation queries
-│   └── kpi_analysis.sql      # KPI & risk analysis
-│
-├── powerbi/
-│   └── bank_loan_dashboard.pbix
-│
-├── tableau/
-│   └── bank_loan_dashboard.twbx
-│
-├── insights/
-│   └── key_insights.md
-│
-├── images/
-│   └── dashboard_screenshots.png
-│
-└── README.md
-
-
-
----
-
 ## 📊 Key KPIs Analyzed
 - 📌 Loan Disbursements  
 - 📉 Default Rates  
@@ -85,7 +56,7 @@ bank-loan-analytics/
 ## 📬 Contact
 👤 **Chaithra Athreya**  
 💼 Data Analyst  
-🔗 GitHub: https://github.com/yourusername  
+🔗 GitHub: https://github.com/
 
 ---
 ⭐ *If you find this project useful, feel free to star the repository!*
