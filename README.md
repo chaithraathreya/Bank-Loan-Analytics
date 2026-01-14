@@ -17,29 +17,29 @@ The analysis was performed using **SQL, Excel, Power BI, and Tableau**, followin
 
 ## 📂 Project Structure
 bank-loan-analytics/
-│
 ├── data/
-│ ├── raw/ # Original loan dataset
-│ └── processed/ # Cleaned & transformed data
+│   ├── raw/                  # Original loan dataset
+│   └── processed/            # Cleaned & transformed data
 │
 ├── sql/
-│ ├── schema.sql
-│ ├── data_cleaning.sql
-│ └── kpi_analysis.sql
+│   ├── schema.sql            # Table creation
+│   ├── data_cleaning.sql     # Cleaning & validation queries
+│   └── kpi_analysis.sql      # KPI & risk analysis
 │
 ├── powerbi/
-│ └── bank_loan_dashboard.pbix
+│   └── bank_loan_dashboard.pbix
 │
 ├── tableau/
-│ └── bank_loan_dashboard.twbx
+│   └── bank_loan_dashboard.twbx
 │
 ├── insights/
-│ └── key_insights.md
+│   └── key_insights.md
 │
 ├── images/
-│ └── dashboard_screenshots.png
+│   └── dashboard_screenshots.png
 │
 └── README.md
+
 
 
 ---
