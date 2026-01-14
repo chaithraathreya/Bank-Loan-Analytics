@@ -61,6 +61,3 @@ The analysis was performed using **SQL, Excel, Power BI, and Tableau**, followin
 ---
 ⭐ *If you find this project useful, feel free to star the repository!*
 
-iption
-
-Just say the word 👍
