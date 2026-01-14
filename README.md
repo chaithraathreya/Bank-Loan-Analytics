@@ -56,7 +56,7 @@ The analysis was performed using **SQL, Excel, Power BI, and Tableau**, followin
 ## 📬 Contact
 👤 **Chaithra Athreya**  
 💼 Data Analyst  
-🔗 GitHub: https://github.com/
+🔗 GitHub: https://github.com/chaithraathreya
 
 ---
 ⭐ *If you find this project useful, feel free to star the repository!*
